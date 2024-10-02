@@ -22,4 +22,3 @@ public class Pessoa {
     @Column(nullable = false)
     private int idade;
 }
-
